@@ -10,8 +10,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love computer games and working out
 
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=derrosilee&theme=outrun&show_icons=true" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrosilee&layout=compact" />
+<!-- <img align="left"  src="https://github-readme-stats.vercel.app/api?username=derrosilee&theme=outrun&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrosilee&layout=compact" /> -->
 
 ## Languages 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
