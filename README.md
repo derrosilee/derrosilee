@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Lee Derrosi] 👋
 
 I'm a software engineer with a passion for building scalable web and mobile applications. Here are some of the key skills I specialize in:
 
