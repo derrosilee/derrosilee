@@ -20,6 +20,6 @@ I'm a software engineer with a passion for building scalable web and mobile appl
 Feel free to reach out to me through the following channels:
 
 - Email: derrossilee@gmail.com
-- Call: +254 740 359 509
+- Call: +254740359509
 
 Let's connect and discuss how we can work together on exciting projects!
