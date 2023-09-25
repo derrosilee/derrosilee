@@ -5,6 +5,7 @@ I'm a software engineer with a passion for building scalable web and mobile appl
 ## Skills
 
 - Python 🐍
+- Rust
 - Django
 - Flask
 - React ⚛️
