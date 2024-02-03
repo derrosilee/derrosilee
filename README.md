@@ -1,19 +1,20 @@
 # Hi there, I'm [Lee Derrosi] 👋
 
-I'm a software engineer with a passion for building scalable web and mobile applications. Here are some of the key skills I specialize in:
+I'm a software engineer with a passion for building scalable Backend applications. Here are some of the key skills I specialize in:
 
 ## Skills
 
-- Python 🐍
+- Python 
 - Rust
+- Go
 - Django
+- SQL
 - Flask
-- React ⚛️
-- Django REST Framework 🌐
-- Kotlin 🚀
-- Android Compose 📱
-- Network Engineering 🌐
-- Data Science 📊
+- React 
+- Rest API's 
+- Kotlin 
+- Network Engineering 
+- Data Science 
 
 
 ## Contact Me
