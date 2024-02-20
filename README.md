@@ -1,11 +1,11 @@
 Lee Derrosi 👋 - Software Engineer
 Passionate about building scalable Backend applications, I specialize in:
 
-Python, Rust, Go
-Django, Flask
-SQL, React
-Rest API's, Kotlin
-Network Engineering, Data Science
+Python, Rust, GoLang,
+Django, Flask,
+SQL, React,
+Rest APIs, Kotlin,
+Network Engineering, Data Science.
 
 Contact Me
 Email: derrossilee@gmail.com
