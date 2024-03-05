@@ -2,7 +2,6 @@ Lee Derrosi 👋 - Software Engineer
 Passionate about building scalable Backend applications, I specialize in:
 
 Python, Rust, GoLang,
-Django, Flask,
 SQL, React,
 Rest APIs, Kotlin,
 Network Engineering, Data Science.
