@@ -1,10 +1,13 @@
-Lee Derrosi 👋 - Software Engineer
+Lee Derrosi 👋 - Senior Software Engineer & Founder of vasty Kenya
 Passionate about building scalable Backend applications, I specialize in:
 
 Python, Rust, GoLang,
 SQL, React,
 Rest APIs, Kotlin,
 Network Engineering, Data Science.
+
+
+Current
 
 Contact Me
 Email: derrossilee@gmail.com
