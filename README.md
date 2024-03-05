@@ -1,4 +1,4 @@
-Lee Derrosi 👋 - Senior Software Engineer & Founder of vasty Kenya
+Lee Derrosi 👋 - Senior Software Engineer & Founder of Vasty Kenya
 Passionate about building scalable Backend applications, I specialize in:
 
 Python, Rust, GoLang,
