@@ -6,9 +6,6 @@ SQL, React,
 Rest APIs, Kotlin,
 Network Engineering, Data Science.
 
-
-Current
-
 Contact Me
 Email: derrossilee@gmail.com
 Call: +254740359509
